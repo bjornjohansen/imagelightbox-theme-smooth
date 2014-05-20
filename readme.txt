@@ -1,4 +1,4 @@
-=== imageLightbox for WordPress Smooth theme ===
+=== imageLightbox Smooth theme ===
 Contributors: bjornjohansen
 Donate link: http://www.kiva.org/
 Tags: images, jquery, lightbox, images, lightweight, responsive, mobile, touch, theme
@@ -7,7 +7,7 @@ Requires at least: 3.8
 Tested up to: 3.9.1
 Stable tag: 0.1
 
-imageLightbox for WordPress Smooth theme
+Smooth theme for the imageLightbox plugin
 
 == Description ==
 

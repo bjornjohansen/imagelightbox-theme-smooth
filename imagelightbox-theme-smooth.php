@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: imageLightbox for WordPress Smooth theme
+Plugin Name: imageLightbox Smooth theme
 Plugin URI: https://github.com/bjornjohansen/imagelightbox-theme-smooth
-Description: Theme for the imageLightbox plugin
+Description: Smooth theme for the imageLightbox plugin
 Version: 0.1
 Author: Bjørn Johansen
 Author URI: https://bjornjohansen.no
