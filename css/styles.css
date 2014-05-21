@@ -102,12 +102,14 @@ html {
   border-radius: 50%;
 }
 #imagelightbox-loading {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
   width: 2.5em;
   /* 40 */
   height: 2.5em;
   /* 40 */
   background-color: #444;
-  background-color: #1F1631;
   position: fixed;
   z-index: 10003;
   top: 50%;
