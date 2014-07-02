@@ -48,7 +48,7 @@ class ImageLightboxThemeSmooth {
 			wp_enqueue_script( 'imageLightbox-theme', plugins_url( '/js/imagelightbox-theme.js', __FILE__ ), array( 'imageLightbox' ), self::version, true );
 			wp_enqueue_style( 'imagelightbox-theme-styles', plugins_url( '/css/styles.css', __FILE__ ), null, self::version );
 		} else {
-			wp_enqueue_script( 'imageLightbox', plugins_url( '/js/imagelightbox-theme.min.js', __FILE__ ), array( 'imageLightbox' ), self::version, true );
+			wp_enqueue_script( 'imageLightbox-theme', plugins_url( '/js/imagelightbox-theme.min.js', __FILE__ ), array( 'imageLightbox' ), self::version, true );
 			wp_enqueue_style( 'imagelightbox-theme-styles', plugins_url( '/css/styles.min.css', __FILE__ ), null, self::version );
 		}
 
