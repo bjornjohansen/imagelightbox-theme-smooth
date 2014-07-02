@@ -5,7 +5,7 @@ Tags: images, jquery, lightbox, images, lightweight, responsive, mobile, touch, 
 Author URI: https://bjornjohansen.no/
 Requires at least: 3.8
 Tested up to: 3.9.1
-Stable tag: 0.1
+Stable tag: 0.1.1
 
 Smooth theme for the imageLightbox plugin
 
@@ -35,6 +35,9 @@ No
 Because it is essentially an extension to the imageLightbox plugin, not a WordPress theme.
 
 == Changelog ==
+
+= 0.1.1 =
+Fixed internal server error outside debug mode
 
 = 0.1 =
 Released
